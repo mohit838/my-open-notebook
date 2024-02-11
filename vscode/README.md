@@ -1,8 +1,4 @@
-# my-open-notebook
-
-All types of notes what I have to do with regularly
-
-## VSCode Settings For MySelf
+# VSCode Settings For MySelf
 
     {
         "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
